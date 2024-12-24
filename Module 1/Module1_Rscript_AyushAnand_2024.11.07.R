@@ -18,7 +18,7 @@ library(leaps)
 # ================================================================================
 
 # Load the Ames housing dataset
-ames_data <- read.csv("C:/Users/ayush/Downloads/Intermediate_Analytics/AmesHousing.csv")
+ames_data <- read.csv("give_youe_file_path.csv")
 head(ames_data)
 
 # ================================================================================
